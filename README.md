@@ -1,5 +1,5 @@
 # Homepage of ATM
-![imaage alt](Showcase/Home Page.png)
+![imaage alt](https://github.com/singhrahul1007/ATM-WITH-PYTHON/blob/main/Showcase/Home%20Page.png?raw=true)
 
 
 # ATM
