@@ -1,5 +1,5 @@
 # Homepage of ATM
-![imaagealt](Showcase/Home Page.png)
+![imaage alt](Showcase/Home Page.png)
 
 
 # ATM
