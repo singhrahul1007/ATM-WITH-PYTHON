@@ -1,3 +1,6 @@
+![imaagealt](Static/web_page.png)
+
+
 # ATM
 This Python project simulates a basic Automated Teller Machine (ATM) with the following functionalities: 
 Check Balance: View the current account balance. 
