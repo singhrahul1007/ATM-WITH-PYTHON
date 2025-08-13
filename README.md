@@ -2,6 +2,8 @@
 ![imaage alt](https://github.com/singhrahul1007/ATM-WITH-PYTHON/blob/main/Showcase/Home%20Page.png?raw=true)
 
 ![image alt](https://github.com/singhrahul1007/ATM-WITH-PYTHON/blob/main/Showcase/Account%20Details.png?raw=true)
+
+![image alt](https://github.com/singhrahul1007/ATM-WITH-PYTHON/blob/main/Showcase/Current%20Balance.png?raw=true)
 # ATM
 This Python project simulates a basic Automated Teller Machine (ATM) with the following functionalities: 
 Check Balance: View the current account balance. 
