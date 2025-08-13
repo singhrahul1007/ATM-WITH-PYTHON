@@ -1,4 +1,5 @@
-![imaagealt](Showcase)
+# Homepage of ATM
+![imaagealt](Showcase/Home Page.png)
 
 
 # ATM
